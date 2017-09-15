@@ -11,9 +11,13 @@
   * [x] Stack + Srf-attach (2.5m) engine
   * [x] Mk2 sporting engine
 * [x] RCS
+* White Spice
+  * [ ] Stock core heat module
+  * [ ] Near Future Electric integration
+  * [ ] Retune EC output maybe. Perhaps make it depend on whether NFE is present
 * Life Support
-  * [x] Inline converters (currently RTG-alike)
-    * [ ] Find a secondary function and tie animation to its toggle, or un-make as RTGs
+  * [x] Inline converters
+    * [ ] Change models and textures
     * [x] Srf-attach mini converter
   * [x] Greenhouses
   * [x] TAC Compatibility

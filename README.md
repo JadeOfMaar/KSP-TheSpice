@@ -17,4 +17,5 @@ The following mods have these associations with The Spice:
 ### Bonus Integrations
 * Karbonite : _This mod contains harvesters and scanners for all forms of a resource, very convenient for this mod._
 * Kopernicus : _Duna is not an appropriate host planet for the Spice. Once a certain supported planet pack is installed, the host planet will change._
-* JX2 Antenna : _The spice expands consciousness. So... subspace/hyperspace comms._
+* JX2 Antenna : _(Pending) The spice expands consciousness. So... subspace/hyperspace comms._
+* Near Future Electric : _(Pending) Spice is life. Spice is power. Why not integrate with the best nuclear reactor system out there._
