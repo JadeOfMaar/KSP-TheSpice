@@ -12,7 +12,6 @@
   * [x] Mk2 sporting engine
 * [x] RCS
 * White Spice
-  * [ ] Stock core heat module
   * [ ] Near Future Electric integration
   * [ ] Retune EC output maybe. Perhaps make it depend on whether NFE is present
 * Life Support
@@ -45,9 +44,9 @@
 * Repaint/replace scanners and drills
 * Fine-tune mini-drill
 * Repaint Mk2 engine
-* Finish coding white spice ISRUs
 
 ### Little things done
+* Finish coding white spice ISRUs
 * Repaint greenhouses
 * Replaced greenhouses. Even more ZZZ Things!
 * Added White Spice, white cargo boxes, feature in scanners, drills, biomes
