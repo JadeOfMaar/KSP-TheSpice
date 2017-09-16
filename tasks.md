@@ -15,7 +15,7 @@
   * [x] Retune EC output.
 * Life Support
   * [x] Inline converters
-    * [ ] Change models and textures
+    * [x] Change models and textures
     * [x] Srf-attach mini converter
   * [x] Greenhouses
   * [x] TAC Compatibility
