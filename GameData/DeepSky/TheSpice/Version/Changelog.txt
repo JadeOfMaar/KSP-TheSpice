@@ -1,0 +1,21 @@
+0.5.5
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Sorted tech tree nodes for all parts (stock + CTT)
+* Retuned warp drives
+* Adjusted verniers (linear ones are bigger and stronger: decent size, 10kN power)
+* Retuned and specialized engine families
+  * Japiers for general purpose
+  * Vectors for heavy lifters
+  * Mk2 for exotic performance
+* Added MiniAVC
+
+0.5.1
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -
+* Repaint greenhouses
+* Replaced greenhouses. Even more ZZZ Things!
+* Added White Spice, white cargo boxes, feature in scanners, drills, biomes
+
+
+0.5.0
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -
+* Init.
