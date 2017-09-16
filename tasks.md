@@ -1,5 +1,5 @@
 # Dev Tasks
-## The Spice v0.5.1
+## The Spice v0.5.5
 
 * Engine FX
   * [x] Sounds
@@ -12,8 +12,7 @@
   * [x] Mk2 sporting engine
 * [x] RCS
 * White Spice
-  * [ ] Near Future Electric integration
-  * [ ] Retune EC output maybe. Perhaps make it depend on whether NFE is present
+  * [x] Retune EC output.
 * Life Support
   * [x] Inline converters
     * [ ] Change models and textures
@@ -37,16 +36,24 @@
   * [x] Drill(s)
   * [x] Alternate Resource Panel icons
 * Progression
-  * [ ] Tech tree nodes
-  * [ ] Costs
+  * [x] Tech tree nodes
+  * [x] Costs
 
-### Little things to do
+### Things to do
 * Repaint/replace scanners and drills
 * Fine-tune mini-drill
 * Repaint Mk2 engine
-
-### Little things done
-* Finish coding white spice ISRUs
-* Repaint greenhouses
-* Replaced greenhouses. Even more ZZZ Things!
-* Added White Spice, white cargo boxes, feature in scanners, drills, biomes
+* Repaint balloons
+* Advance USI compatibility
+  * Add warehouse module
+* Advance TAC compatibility
+  * Add resources to greenhouses
+  
+### Things done
+* Sorted tech tree nodes for all parts (stock + CTT)
+* Retuned warp drives
+* Adjusted verniers (linear ones are bigger and stronger: decent size, 10kN power)
+* Retuned and specialized engine families
+  * Japiers for general purpose
+  * Vectors for heavy lifters
+  * Mk2 for exotic performance
