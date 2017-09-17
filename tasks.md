@@ -31,7 +31,8 @@
 * [ ] Subspace/FTL Antennae (to expand consciousness)
 * Harvester pack
   * [x] Giant radial intake
-  * [ ] Stack intake
+  * [x] Stack intake
+  * [x] Bonus intake + engine mount
   * [x] Scanner(s)
   * [x] Drill(s)
   * [x] Alternate Resource Panel icons
