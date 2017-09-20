@@ -6,6 +6,7 @@
   * [x] Plumes
 * Engines
   * [x] Warp Drives
+  * [x] Interstellar Fusion Drive
   * [x] Radial heavy lift engines
   * [x] Stack + Srf-attach (1.25m) engine
   * [x] Stack + Srf-attach (2.5m) engine

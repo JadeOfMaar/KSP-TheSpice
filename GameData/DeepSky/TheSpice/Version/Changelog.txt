@@ -1,3 +1,10 @@
+0.6.0
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Added non-warp Interstellar engine and power core
+* Assorted files and folders
+* Added TweakScale to all payload items
+* Added "DS" prefix to most remaining parts
+
 0.5.5
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Sorted tech tree nodes for all parts (stock + CTT)
