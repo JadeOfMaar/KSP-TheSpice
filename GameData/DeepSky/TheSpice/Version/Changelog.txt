@@ -1,9 +1,22 @@
+0.6.1
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Consolidated patches
+* Expanded resource distributions
+* Renamed several parts (will break craft)
+* Misc part tweaks and fixes
+* Added interstellar antennae
+* Added NFE and FFT patch (probably not necessary)
+* Added Snacks! support
+* Filled out USI and TAC LS support
+
+
 0.6.0
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Added non-warp Interstellar engine and power core
 * Assorted files and folders
 * Added TweakScale to all payload items
 * Added "DS" prefix to most remaining parts
+
 
 0.5.5
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
@@ -16,10 +29,11 @@
   * Mk2 for exotic performance
 * Added MiniAVC
 
+
 0.5.1
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -
-* Repaint greenhouses
 * Replaced greenhouses. Even more ZZZ Things!
+* Repaint greenhouses
 * Added White Spice, white cargo boxes, feature in scanners, drills, biomes
 
 

@@ -1,5 +1,5 @@
 # Dev Tasks
-## The Spice v0.5.5
+## The Spice v0.6.1
 
 * Engine FX
   * [x] Sounds
@@ -29,7 +29,7 @@
 * Balloon tanks
   * [x] SpiceGas
   * [x] WormEssence
-* [ ] Subspace/FTL Antennae (to expand consciousness)
+* [x] Subspace/FTL Antennae (to expand consciousness)
 * Harvester pack
   * [x] Giant radial intake
   * [x] Stack intake
@@ -43,19 +43,16 @@
 
 ### Things to do
 * Repaint/replace scanners and drills
-* Fine-tune mini-drill
 * Repaint Mk2 engine
 * Repaint balloons
-* Advance USI compatibility
-  * Add warehouse module
-* Advance TAC compatibility
-  * Add resources to greenhouses
+* Repaint antennae
+* Rebalance spice melange consumption
+* Rebalance white spice harvesting and consumption
+* Fine-tune mini-drill
+* Settle on nature and behavior of "fusion" parts
   
 ### Things done
-* Sorted tech tree nodes for all parts (stock + CTT)
-* Retuned warp drives
-* Adjusted verniers (linear ones are bigger and stronger: decent size, 10kN power)
-* Retuned and specialized engine families
-  * Japiers for general purpose
-  * Vectors for heavy lifters
-  * Mk2 for exotic performance
+* Add NFE and FFT compatibility
+* Apply/advance compatibility with USI, TAC and Snacks LS
+* Add antennae, rename parts
+* Consolidate patches
