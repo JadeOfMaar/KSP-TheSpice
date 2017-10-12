@@ -43,9 +43,7 @@
 
 ### Things to do
 * Repaint/replace scanners and drills
-* Repaint Mk2 engine
-* Repaint balloons
-* Repaint antennae
+* Repaint everything
 * Rebalance spice melange consumption
 * Rebalance white spice harvesting and consumption
 * Fine-tune mini-drill
