@@ -47,9 +47,9 @@
 * Rebalance spice melange consumption
 * Rebalance white spice harvesting and consumption
 * Fine-tune mini-drill
-* Settle on nature and behavior of "fusion" parts
   
 ### Things done
+* Settle on nature and behavior of "fusion" parts
 * Add NFE and FFT compatibility
 * Apply/advance compatibility with USI, TAC and Snacks LS
 * Add antennae, rename parts
