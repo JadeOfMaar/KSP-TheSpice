@@ -1,5 +1,5 @@
 # Dev Tasks
-## The Spice v0.6.1
+## The Spice v0.6.2
 
 * Engine FX
   * [x] Sounds
@@ -11,6 +11,7 @@
   * [x] Stack + Srf-attach (1.25m) engine
   * [x] Stack + Srf-attach (2.5m) engine
   * [x] Mk2 sporting engine
+  * [x] Small convertible VTOL engine
 * [x] RCS
 * White Spice
   * [x] Retune EC output.
@@ -49,8 +50,6 @@
 * Fine-tune mini-drill
   
 ### Things done
-* Settle on nature and behavior of "fusion" parts
-* Add NFE and FFT compatibility
-* Apply/advance compatibility with USI, TAC and Snacks LS
-* Add antennae, rename parts
-* Consolidate patches
+* Added jumpjet engine
+* Consolidated some part names
+* Added some missing modules

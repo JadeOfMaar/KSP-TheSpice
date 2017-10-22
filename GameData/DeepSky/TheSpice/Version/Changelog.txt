@@ -1,3 +1,11 @@
+0.6.2
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Added jumpjet engine
+* Consolidated some part names
+* Added some missing modules
+* CCK support
+
+
 0.6.1
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Consolidated patches
