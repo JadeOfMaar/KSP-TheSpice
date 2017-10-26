@@ -43,13 +43,13 @@
   * [x] Costs
 
 ### Things to do
-* Repaint/replace scanners and drills
 * Repaint everything
 * Rebalance spice melange consumption
-* Rebalance white spice harvesting and consumption
-* Fine-tune mini-drill
+* Rebalance harvester capacities in intakes
+* Check tech tree progression on boxes and balloons
+* Check techrequired on jumpjet
+* Rebalance all air-breathing engine performance
   
 ### Things done
-* Added jumpjet engine
-* Consolidated some part names
-* Added some missing modules
+* Fixed atmosphere harvesters
+* Rebalanced storage in Japier tanks, engines
