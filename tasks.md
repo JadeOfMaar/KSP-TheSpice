@@ -47,9 +47,10 @@
 * Rebalance spice melange consumption
 * Rebalance harvester capacities in intakes
 * Check tech tree progression on boxes and balloons
-* Check techrequired on jumpjet
-* Rebalance all air-breathing engine performance
   
 ### Things done
+* Rebalance all air-breathing engine performance
 * Fixed atmosphere harvesters
-* Rebalanced storage in Japier tanks, engines
+* Rebalanced storage in Japier tanks, engines, fusion drive, fusion core, fuel cells
+* Retuned fusion reactor and fusion drive performance
+* Raised fusion reactor default size to 3.75m
