@@ -1,3 +1,11 @@
+0.6.5
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Rebalanced Fusion parts and Fuel Cells
+* Fixed atmosphere harvesters
+* Rebalanced dual-mode engines
+* Fixed Spice Planet selector (no longer breaks IntakeAtm on all planets other than homeworld)
+
+
 0.6.2
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Added jumpjet engine

@@ -1,5 +1,5 @@
 # Dev Tasks
-## The Spice v0.6.2
+## The Spice v0.6.5
 
 * Engine FX
   * [x] Sounds
@@ -14,7 +14,9 @@
   * [x] Small convertible VTOL engine
 * [x] RCS
 * White Spice
-  * [x] Retune EC output.
+  * [x] Fuel Cells
+  * [x] Boxes
+  * [x] Fusion Reactor
 * Life Support
   * [x] Inline converters
     * [x] Change models and textures
@@ -31,6 +33,7 @@
   * [x] SpiceGas
   * [x] WormEssence
 * [x] Subspace/FTL Antennae (to expand consciousness)
+  * [ ] Retexture
 * Harvester pack
   * [x] Giant radial intake
   * [x] Stack intake
@@ -45,8 +48,9 @@
 ### Things to do
 * Repaint everything
 * Rebalance spice melange consumption
-* Rebalance harvester capacities in intakes
 * Check tech tree progression on boxes and balloons
+* Finish radiator check on reactor
+* Add non-Firespitter tank switches
   
 ### Things done
 * Rebalance all air-breathing engine performance
