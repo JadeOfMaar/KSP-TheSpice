@@ -1,3 +1,12 @@
+0.6.6
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Deprecated white boxes, repainted red boxes
+* Made red boxes all-purpose, compatible with Wild Blue Tools, B9 Part Switch and Firespitter with decreasing priority
+* Started final series of retextures
+* Retuned fusion drive and fusion reactor
+* Added most, if not all Tweakscale patches
+
+
 0.6.5
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Rebalanced Fusion parts and Fuel Cells
