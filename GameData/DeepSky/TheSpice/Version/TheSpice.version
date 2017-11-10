@@ -1,7 +1,7 @@
 {
 	"NAME":"The Spice",
 	"DOWNLOAD":"https://github.com/JadeOfMaar/KSP-TheSpice/releases",
-	"URL":"https://github.com/JadeOfMaar/KSP-TheSpice/tree/master/GameData/DeepSky/TheSpice/Version/AirlineKuisine.version",
+	"URL":"https://github.com/JadeOfMaar/KSP-TheSpice/tree/master/GameData/DeepSky/TheSpice/Version/TheSpice.version",
 	"CHANGE_LOG_URL":"https://github.com/JadeOfMaar/KSP-TheSpice/tree/master/GameData/DeepSky/TheSpice/Version/Changelog.txt",
 	"GITHUB":
 	{
@@ -13,7 +13,7 @@
 	{
 		"MAJOR":0,
 		"MINOR":6,
-		"PATCH":6,
+		"PATCH":7,
 		"BUILD":0
 	},
 	"KSP_VERSION":

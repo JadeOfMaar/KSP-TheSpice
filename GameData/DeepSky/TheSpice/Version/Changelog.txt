@@ -1,3 +1,11 @@
+0.6.7
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Removed antennae
+* Added antenna module to greater warp drive
+* Set sample amount to all tanks to allow thrust balancing during ship design
+* Disabled WBT resource switcher. It does not respect non-tweakable resources afaik
+
+
 0.6.6
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Deprecated white boxes, repainted red boxes
