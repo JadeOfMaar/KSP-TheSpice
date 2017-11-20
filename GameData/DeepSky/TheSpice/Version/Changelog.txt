@@ -1,3 +1,14 @@
+0.6.8
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Added Mk2 parts: 
+  * second aerospike, inline cockpit, spitfire cockpit, intake
+* Rebalanced harvester rates, reordered Japier tanks and intakes in tech tree
+* Added hybrid engine modes and engine exhaust damage
+* Added LOX distiller system
+* Updated engine particles
+* Raised warp bubble sizes
+
+
 0.6.7
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Removed antennae
