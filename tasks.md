@@ -1,9 +1,10 @@
 # Dev Tasks
-## The Spice v0.6.8
+## The Spice v0.6.9
 
 ### Things to do
 * Repaint everything
 * Fix texture issue with kPad
-* Re-add antennae
+* Fix tech nodes and costs
   
 ### Things done
+* Re-add antennae

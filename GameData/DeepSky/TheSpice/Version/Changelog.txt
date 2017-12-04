@@ -1,3 +1,10 @@
+0.6.9
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Added (other) antennae parts
+* Adjusted warp drive features
+* Splintered some parts into Amp Gear mod
+  * Removed "Mk2 SciFi" subset of parts and air RCS
+
 0.6.8
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Added Mk2 parts: 
