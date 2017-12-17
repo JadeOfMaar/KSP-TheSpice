@@ -1,9 +1,13 @@
-0.6.9
+0.7.0
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Renamed Vector engine to Scorpius
 * Fixed part upgrades
 * Adjust remaining references to "Amp Gear" to "Thor Tech"
 * Added WIP cmpatibility for ESLD Jump Beacons
+* Prepared for custom science
+
+0.6.9
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 
 * Added (other) antennae parts
 * Adjusted warp drive features

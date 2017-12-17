@@ -1,10 +1,12 @@
 # Dev Tasks
-## The Spice v0.6.9
+## The Spice v0.7.0
 
 ### Things to do
-* Repaint everything
+* Test warp drives with new warp module
+* Develop science aspect
 * Fix texture issue with kPad
-* Fix tech nodes and costs
+* Repaint everything
+
   
 ### Things done
-* Re-add antennae
+
