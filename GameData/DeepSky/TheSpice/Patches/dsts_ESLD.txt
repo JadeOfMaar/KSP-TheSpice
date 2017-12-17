@@ -1,0 +1,24 @@
+//ESLD Jump Beacons
+@PART:HAS[@MODULE[ESLDBeacon]]:NEEDS[ESLDBeacons]:FOR[TheSpice]
+{
+	@MODULE[ESLDBeacon]
+	{
+		@RESOURCE
+		{
+			@name = SpiceGas
+			@maxAmount *= 4640
+		}
+	}
+}
+
+@PART[ESLD*]:HAS[@RESOURCE[Karborundum]]:NEEDS[ESLDBeacons]:FOR[TheSpice]
+{
+	@RESOURCE
+	{
+		@name = SpiceGas
+		@maxAmount *= 4640
+	}
+}
+
+// Ka = 0.005800000
+// SG = 0.000001251
