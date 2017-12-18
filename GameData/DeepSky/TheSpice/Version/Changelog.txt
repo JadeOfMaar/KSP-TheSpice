@@ -1,18 +1,25 @@
 0.7.0
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
-* Renamed Vector engine to Scorpius
-* Fixed part upgrades
-* Adjust remaining references to "Amp Gear" to "Thor Tech"
-* Added WIP cmpatibility for ESLD Jump Beacons
-* Prepared for custom science
+* Renamed Vector engines to Scorpius
+* Fixed part upgrades and tweaked tech tree nodes
+* Changed references to "Amp Gear" to "Thor Tech"
+* Added WIP compatibility for ESLD Jump Beacons
+* Changed yellow accent color to red in Karbonite-based part textures
+* Added custom science system
+  * Features new experiments, supports MOLE by Angel-125
+  * Additions to stock experiments pending
+  * Additions to DMagic experiments pending
+  * Science modules in main science part pending
+  * Results for MOLE experiments and (stock) Arkas surface science pending
+
 
 0.6.9
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
-
-* Added (other) antennae parts
+* Added different antennae parts
 * Adjusted warp drive features
 * Splintered some parts into Amp Gear mod
   * Removed "Mk2 SciFi" subset of parts and air RCS
+
 
 0.6.8
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
