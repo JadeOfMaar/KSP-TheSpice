@@ -1,3 +1,18 @@
+0.7.1
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Set foundation for Spice series science system (WIP)
+  * includes additions to stock experiments
+  * includes additions to DMagic experiments
+  * includes additions to MOLE LDEF
+* separate some parts into DS Core
+* Add and fix tank switching via B9PS
+* Add Spice templates and tankage (as part upgrades) to WBI: Buffalo and Pathfinder
+* Re-factored WhiteSpice converter I/O by 1/3 (excluding EC output)
+* Add Mk2 spice tank WIP
+* Update Mk2 Raze engine into WarpJet/SpiceDrive
+* Rearrange and rename files for Geminus parts
+
+
 0.7.0
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Renamed Vector engines to Scorpius
