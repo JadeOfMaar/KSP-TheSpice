@@ -8,7 +8,6 @@
 * Add and fix tank switching via B9PS
 * Add Spice templates and tankage (as part upgrades) to WBI: Buffalo and Pathfinder
 * Re-factored WhiteSpice converter I/O by 1/3 (excluding EC output)
-* Add Mk2 spice tank WIP
 * Update Mk2 Raze engine into WarpJet/SpiceDrive
 * Rearrange and rename files for Geminus parts
 
