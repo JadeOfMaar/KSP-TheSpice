@@ -1,15 +1,13 @@
 0.7.1
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
-* Set foundation for Spice series science system (WIP)
+* Set foundation for Spice series science system
   * includes additions to stock experiments
   * includes additions to DMagic experiments
   * includes additions to MOLE LDEF
-* separate some parts into DS Core
+* separate parts into DS Core
 * Add and fix tank switching via B9PS
 * Add Spice templates and tankage (as part upgrades) to WBI: Buffalo and Pathfinder
-* Re-factored WhiteSpice converter I/O by 1/3 (excluding EC output)
-* Update Mk2 Raze engine into WarpJet/SpiceDrive
-* Rearrange and rename files for Geminus parts
+* Re-factored WhiteSpice converter input by 1/3
 
 
 0.7.0
