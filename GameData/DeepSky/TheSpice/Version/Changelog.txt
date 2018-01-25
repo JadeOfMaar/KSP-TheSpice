@@ -1,3 +1,14 @@
+0.7.2
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Refactored SpiceMelange tankage
+* Assimilate USI's ZZZ Warp Drives
+* Create Guild-based trait required by warp drives
+* Fix Isp issue with Mk2 Raze engine
+* Science system
+  * Finish 4 experiments for MOLE
+  * Finish 2 experiments with stock behavior
+
+
 0.7.1
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Set foundation for Spice series science system
