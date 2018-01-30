@@ -1,0 +1,73 @@
+@PART[ZWarpDrive125|ZWarpDrive25|ZWarpDrive375]:NEEDS[WarpEngine,TheSpice]
+{
+	MODULE
+	{
+		name = ModuleResourceConverter
+		ConverterName = Nav Responder
+		// !StartActionName = Start ExoticMatter 
+		// !StopActionName = Stop ExoticMatter
+		AlwaysActive = true
+		ExperienceEffect = SpacingSkill
+		UseSpecialistBonus = true
+		SpecialistEfficiencyFactor = 0.2
+		SpecialistBonusBase = 0.5
+		EfficiencyBonus = 1.0
+		@INPUT_RESOURCE
+		{
+			@ResourceName = SpiceMelange
+			@Ratio = 0.01667
+		}
+		@OUTPUT_RESOURCE
+		{
+			@ResourceName = NavResponse
+			@Ratio = 1.4
+			%DumpExcess = True
+		}
+	}
+	MODULE
+	{
+		name = ModuleResourceConverter
+		ConverterName = Nav Degeneracy
+		AlwaysActive = true
+		INPUT_RESOURCE
+		{
+			ResourceName = NavResponse
+			Ratio = 0.4
+		}
+	}
+	@MODULE[ModuleEnginesFX]
+	{
+		PROPELLANT
+		{
+			name = NavResponse
+			ratio = 0.008
+			DrawGauge = True
+		}
+	}
+	RESOURCE
+	{
+		name = NavResponse
+		amount = 0.8
+		maxAmount = 5
+	}
+}
+@PART[ZWarpDrive25]:NEEDS[WarpEngine,TheSpice]
+{
+	@MODULE[ModuleEnginesFX]
+	{
+		@PROPELLANT[NavResponse]
+		{
+			@ratio *= 0.4
+		}
+	}
+}
+@PART[ZWarpDrive375]:NEEDS[WarpEngine,TheSpice]
+{
+	@MODULE[ModuleEnginesFX]
+	{
+		@PROPELLANT[NavResponse]
+		{
+			@ratio *= 0.3
+		}
+	}
+}
