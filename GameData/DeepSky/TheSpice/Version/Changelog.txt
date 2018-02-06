@@ -4,9 +4,12 @@
 * Assimilate USI's ZZZ Warp Drives
 * Create Guild-based trait required by warp drives
 * Fix Isp issue with Mk2 Raze engine
+* No Kopernicus, No Spice
+* Retextured Japier Spice Tanks
+* Added compatibility for IFI Life Support and Wild Blue Industries logistics
 * Science system
-  * Finish 4 experiments for MOLE
-  * Finish 2 experiments with stock behavior
+  * Finished 4 experiments for MOLE
+  * Finished 2 experiments with stock behavior
 
 
 0.7.1
