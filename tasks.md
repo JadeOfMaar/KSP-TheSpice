@@ -1,12 +1,11 @@
 # Dev Tasks
-## The Spice v0.7.0
+## The Spice v0.7.2
 
 ### Things to do
-* Test warp drives with new warp module
-* Develop science aspect
-* Fix texture issue with kPad
-* Repaint everything
-
+* Test/fix skill requirement on warp drives
+* Replace these parts: drills, scanner, multi-experiment
+* Retexture Mk2 engine
+* Close the case with antenna parts (To assimilate better/smaller ones; finish off the current ones; or delete them all?)
   
 ### Things done
 
