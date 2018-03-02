@@ -1,11 +1,14 @@
 # Dev Tasks
-## The Spice v0.7.2
+## The Spice v0.7.3
 
 ### Things to do
-* Test/fix skill requirement on warp drives
-* Replace these parts: drills, scanner, multi-experiment
-* Retexture Mk2 engine
-* Close the case with antenna parts (To assimilate better/smaller ones; finish off the current ones; or delete them all?)
+* Test/fix skill requirement on warp drives (feature disabled)
+* Replace multi-experiment
+* Re-texture Mk2 engine and jumpjet
+* Re-texture spice scanner
   
 ### Things done
+* Adjust resource costs
+* Close the case with antenna parts (To assimilate better/smaller ones; finish off the current ones; or delete them all?)
+* Changed spice scanner model
 

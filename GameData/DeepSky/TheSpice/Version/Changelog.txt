@@ -1,3 +1,12 @@
+0.7.3
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+* Restored discrete ZZZ Warp Drives; will not change or hide USI Warp Drives
+* Adjusted costs of parts and resources
+* Deleted antennae parts again
+* Changed scanner and drill models
+* Added WBI MOLE tank upgrades
+
+
 0.7.2
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Refactored SpiceMelange tankage
