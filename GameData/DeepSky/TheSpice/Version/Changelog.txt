@@ -5,6 +5,8 @@
 * Deleted antennae parts again
 * Changed scanner and drill models
 * Added WBI MOLE tank upgrades
+* Added a planet mod to support
+* Arranged new models and textures for science parts
 
 
 0.7.2
