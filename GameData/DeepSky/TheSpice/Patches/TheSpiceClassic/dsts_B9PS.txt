@@ -1,0 +1,173 @@
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
+{
+	name = DS_SM
+	tankMass = 0.0000
+	tankCost = 0
+	percentFilled = 0
+	RESOURCE
+	{
+		name = SpiceMelange
+		unitsPerVolume = 3.125
+	}
+}
+
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
+{
+	name = DS_WS
+	tankMass = 0.0000
+	tankCost = 0
+	percentFilled = 0
+	RESOURCE
+	{
+		name = WhiteSpice
+		unitsPerVolume = 3.125
+	}
+}
+
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
+{
+	name = DS_SG
+	tankMass = 0.0000
+	tankCost = 0
+	percentFilled = 0.1
+	RESOURCE
+	{
+		name = SpiceGas
+		unitsPerVolume = 3996
+	}
+}
+
+B9_TANK_TYPE:NEEDS[B9PartSwitch]
+{
+	name = DS_Atm_Prem
+	tankMass = 0.0000
+	tankCost = 0
+	RESOURCE
+	{
+		name = SpiceGas
+		unitsPerVolume = 1998
+		percentFilled = 0
+	}
+	RESOURCE
+	{
+		name = Atmosphere
+		unitsPerVolume = 0.2316
+		percentFilled = 0.1
+	}
+}
+
+@PART[dsts_box*]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+{
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		moduleID = SpiceTanks
+		switcherDescription = Box Tank
+		switchInFlight = True
+		SUBTYPE
+		{
+			name = SpiceMelange
+			tankType = DS_SM
+			title = Spice Melange
+		}
+		SUBTYPE
+		{
+			name = WhiteSpice
+			tankType = DS_WS
+			title = White Spice
+		}
+	}
+}
+
+@PART[dsts_boxred_flat]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+{
+	@MODULE[ModuleB9PartSwitch]
+	{
+		baseVolume = 687.5
+	}
+}
+
+@PART[dsts_boxred]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+{
+	@MODULE[ModuleB9PartSwitch]
+	{
+		baseVolume = 783.5
+	}
+}
+
+@PART[dsts_boxred_long]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+{
+	@MODULE[ModuleB9PartSwitch]
+	{
+		baseVolume = 959.5
+	}
+}
+
+@PART[dsts_japiertankI|dsts_japiertankII|dsts_japiertankIII|dsts_spiceballoon]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+{
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		moduleID = PressureTanks
+		switcherDescription = Pressure Tank
+		switchInFlight = True
+		SUBTYPE
+		{
+			name = SpiceGas
+			tankType = DS_SG
+			title = Spice Gas
+		}
+		SUBTYPE
+		{
+			name = AtmoStandard
+			tankType = DS_Atm
+			title = Atmosphere
+		}
+		SUBTYPE
+		{
+			name = AtmoPremium
+			tankType = DS_Atm_Prem
+			title = SG + ATM
+		}
+	}
+}
+
+@PART[dsts_japiertankI]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+{
+	@MODULE[ModuleB9PartSwitch]
+	{
+		baseVolume = 863.5
+	}
+}
+@PART[dsts_japiertankII|dsts_japiertankIII]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+{
+	@MODULE[ModuleB9PartSwitch]
+	{
+		baseVolume = 1295
+	}
+}
+@PART[dsts_spiceballoon]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+{
+	@MODULE[ModuleB9PartSwitch]
+	{
+		baseVolume = 1308
+	}
+}
+@PART[ds00_pres_*]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+{
+	@MODULE[ModuleB9PartSwitch]
+	{
+		SUBTYPE
+		{
+			name = SpiceGas
+			tankType = DS_SG
+			title = Spice Gas
+		}
+		SUBTYPE
+		{
+			name = AtmoPremium
+			tankType = DS_Atm_Prem
+			title = SG + ATM
+		}
+	}
+}
