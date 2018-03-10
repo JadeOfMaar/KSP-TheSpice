@@ -1,0 +1,12 @@
+// The Spice
+// Engines
+@PART[dsts_mk2spike]:HAS[@MODULE[ModuleEnginesFX]]
+{
+	@MODULE[ModuleEnginesFX],0
+	{
+		@PROPELLANT[IntakeAtm]
+		{
+			@name = Atmosphere
+		}
+	}
+}

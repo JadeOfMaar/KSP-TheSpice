@@ -1,0 +1,53 @@
+@PART[dsts_fusioncore]
+{
+	!MODULE[ModuleResourceConverter] {}
+	MODULE
+	{
+		name = ModuleFusionReactor
+		ConverterName = Fusion Reactor
+		StartActionName = Start Reactor
+		StopActionName = Stop Reactor
+		FillAmount = 0.99
+		ecNeededToStart = 3000
+		 
+		AutoShutdown = true
+		GeneratesHeat = true
+		TemperatureModifier = 180
+		UseSpecializationBonus = true
+		SpecialistHeatFactor = 0.2
+		SpecialistEfficiencyFactor = 0.1
+		SpecialistShutoffTemp = 0.5
+		DefaultShutoffTemp = 0.3
+		Specialty = Engineer
+		EfficiencyBonus = 1.0
+		 
+		INPUT_RESOURCE
+		{
+			ResourceName = WhiteSpice
+			Ratio = 0.0010416
+			FlowMode = ALL_VESSEL
+		}
+
+		OUTPUT_RESOURCE
+		{
+			ResourceName = ElectricCharge
+			Ratio = 9000
+			DumpExcess = true
+		}
+
+		OUTPUT_RESOURCE
+		{
+			ResourceName = ElectroPlasma
+			Ratio = 9000
+			DumpExcess = true
+		}
+	}
+	
+	RESOURCE
+	{
+		name = ElectroPlasma
+		amount = 0
+		maxAmount = 3000
+		isTweakable = false
+	}
+}
