@@ -4,7 +4,7 @@
 * Minor tweak to Geminus Fusion Core
 * Fixed spice drill action labels
 * Renamed RCS ports
-
+* Removed forced requirement for Kopernicus
 
 0.7.3
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 

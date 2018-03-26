@@ -7,7 +7,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch]
 	RESOURCE
 	{
 		name = SpiceMelange
-		unitsPerVolume = 3.125
+		unitsPerVolume = 3
 	}
 }
 
@@ -20,7 +20,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch]
 	RESOURCE
 	{
 		name = WhiteSpice
-		unitsPerVolume = 3.125
+		unitsPerVolume = 3
 	}
 }
 
@@ -51,12 +51,11 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch]
 	RESOURCE
 	{
 		name = Atmosphere
-		unitsPerVolume = 0.2316
-		percentFilled = 0.1
+		unitsPerVolume = 0.2
 	}
 }
 
-@PART[dsts_box*]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+@PART[dsts_box*]:NEEDS[B9PartSwitch]:FOR[TheSpice]
 {
 	MODULE
 	{
@@ -79,31 +78,31 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch]
 	}
 }
 
-@PART[dsts_boxred_flat]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+@PART[dsts_boxred_flat]:NEEDS[B9PartSwitch]:FOR[TheSpice]
 {
 	@MODULE[ModuleB9PartSwitch]
 	{
-		baseVolume = 687.5
+		baseVolume = 680
 	}
 }
 
-@PART[dsts_boxred]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+@PART[dsts_boxred]:NEEDS[B9PartSwitch]:FOR[TheSpice]
 {
 	@MODULE[ModuleB9PartSwitch]
 	{
-		baseVolume = 783.5
+		baseVolume = 780
 	}
 }
 
-@PART[dsts_boxred_long]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+@PART[dsts_boxred_long]:NEEDS[B9PartSwitch]:FOR[TheSpice]
 {
 	@MODULE[ModuleB9PartSwitch]
 	{
-		baseVolume = 959.5
+		baseVolume = 960
 	}
 }
 
-@PART[dsts_japiertankI|dsts_japiertankII|dsts_japiertankIII|dsts_spiceballoon]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+@PART[dsts_japiertankI|dsts_japiertankII|dsts_japiertankIII|dsts_spiceballoon]:NEEDS[B9PartSwitch]:FOR[TheSpice]
 {
 	MODULE
 	{
@@ -132,28 +131,28 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch]
 	}
 }
 
-@PART[dsts_japiertankI]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+@PART[dsts_japiertankI]:NEEDS[B9PartSwitch]:FOR[TheSpice]
 {
 	@MODULE[ModuleB9PartSwitch]
 	{
-		baseVolume = 863.5
+		baseVolume = 864
 	}
 }
-@PART[dsts_japiertankII|dsts_japiertankIII]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+@PART[dsts_japiertankII|dsts_japiertankIII]:NEEDS[B9PartSwitch]:FOR[TheSpice]
 {
 	@MODULE[ModuleB9PartSwitch]
 	{
 		baseVolume = 1295
 	}
 }
-@PART[dsts_spiceballoon]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+@PART[dsts_spiceballoon]:NEEDS[B9PartSwitch]:FOR[TheSpice]
 {
 	@MODULE[ModuleB9PartSwitch]
 	{
 		baseVolume = 1308
 	}
 }
-@PART[ds00_pres_*]:NEEDS[B9PartSwitch,Kopernicus]:FOR[TheSpice]
+@PART[ds00_pres_*]:NEEDS[B9PartSwitch]:FOR[TheSpice]
 {
 	@MODULE[ModuleB9PartSwitch]
 	{
