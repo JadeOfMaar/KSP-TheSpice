@@ -5,6 +5,10 @@
 * Fixed spice drill action labels
 * Renamed RCS ports
 * Removed forced requirement for Kopernicus
+* Missing TweakScale options
+* Major adjustment to SpiceGas
+  * Tank factoring
+  * Propellant ratios and Isp curves
 
 0.7.3
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
