@@ -1,4 +1,4 @@
-0.7.4
+0.7.5
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Fixed negative price on 2.5m power cell
 * Minor tweak to Geminus Fusion Core
@@ -9,6 +9,9 @@
 * Major adjustment to SpiceGas
   * Tank factoring
   * Propellant ratios and Isp curves
+* Added IVA (Hitchhiker) to Spice Gardens
+* Renamed some engines
+* Added KSC Refinery nodes for when Wild Blue mods installed
 
 0.7.3
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
