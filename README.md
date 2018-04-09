@@ -23,4 +23,5 @@ The following mods have these associations with The Spice:
   * Snacks!
   * IFI
 * Wild Blue Industries: 
-  * MOLE : _Enables experiments that require time and resource samples. Because it's only right that this needs to be done to learn how The Spice directly affects The Kerbal. The Spice, in turn, will install tank options into a number of parts here._
+  * Wild Blue Tools : _Enables the KSC to locally store the spices from recovered vessels, and fill vessels on launch as far as the local storage (and the player's wallet) allows. Installs Spice tank options into storage devices in MOLE, Pathfinder and Buffalo._
+  * MOLE : _Enables experiments that require time and resource samples. Because it's only right that this needs to be done to learn how The Spice directly affects The Kerbal._
