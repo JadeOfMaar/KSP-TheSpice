@@ -12,6 +12,8 @@
 * Added IVA (Hitchhiker) to Spice Gardens
 * Renamed some engines
 * Added KSC Refinery nodes for when Wild Blue mods installed
+* Adjusted tank templates
+
 
 0.7.3
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
