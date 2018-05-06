@@ -3,6 +3,8 @@
 * Fixed broken FX links in Geminus engine
 * Added tank options to OPT Spaceplane and SSPXr
 * Added WBI part tips!
+* Mk2 engine update (title, desc and performance)
+
 
 0.8.0 -  - 2018-04-10
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
