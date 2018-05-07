@@ -7,7 +7,7 @@
 * Changed logos and (slightly) performance stats on warp drives
 * Doubled antenna range in warp drives
 * Fixed gimbal speed on Sirona series engines
-* Restored custom drill texture thanks to bugfix in KSP 1.4.3
+* Restored custom drill texture thanks to bugfix in KSP 1.4.3 (it breaks in 1.4.0-1.4.2)
 
 
 0.8.0 -  - 2018-04-10
