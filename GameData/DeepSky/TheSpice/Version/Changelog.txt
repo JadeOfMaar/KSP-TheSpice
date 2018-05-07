@@ -1,9 +1,12 @@
-0.8.1
+0.8.1 -  - 2018-05-07
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 * Fixed broken FX links in Geminus engine
 * Added tank options to OPT Spaceplane and SSPXr
 * Added WBI part tips!
-* Mk2 engine update (title, desc and performance)
+* Mk2 engine update (name, title, desc, performance, texture) (craft breaker)
+* Changed logos and (slightly) performance stats on warp drives
+* Doubled antenna range in warp drives
+* Fixed gimbal speed on Sirona series engines
 
 
 0.8.0 -  - 2018-04-10
