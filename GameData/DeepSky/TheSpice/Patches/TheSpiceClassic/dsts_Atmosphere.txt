@@ -1,6 +1,6 @@
 // The Spice
 // Engines
-@PART[dsts_mk2spike]
+@PART[dsts_mk2spike2]
 {
 	@MODULE[ModuleEnginesFX],0
 	{
