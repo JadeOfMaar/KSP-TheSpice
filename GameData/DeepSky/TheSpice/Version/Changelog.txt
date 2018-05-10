@@ -1,5 +1,12 @@
+0.8.2 -  - 2018-05-10
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+
+* Fix major fault with Classic Stock mode
+
+
 0.8.1 -  - 2018-05-07
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+
 * Fixed broken FX links in Geminus engine
 * Added tank options to OPT Spaceplane and SSPXr
 * Added WBI part tips!
