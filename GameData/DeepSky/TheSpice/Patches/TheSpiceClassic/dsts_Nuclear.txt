@@ -1,4 +1,16 @@
-@PART[dsts_fusioncore]
+@PART[dsts_fusioncore]:NEEDS[!DSEV]
+{
+	@MODULE[ModuleResourceConverter] 
+	{
+		!AutoShutdown = nope
+		!TemperatureModifier {}	
+		!GeneratesHeat = nope
+		!DefaultShutoffTemp = nope
+		!ThermalEfficiency {}
+	}
+	!MODULE[ModuleCoreHeat] {}
+}
+@PART[dsts_fusioncore]:NEEDS[DSEV]
 {
 	!MODULE[ModuleResourceConverter] {}
 	MODULE
@@ -42,6 +54,7 @@
 			DumpExcess = true
 		}
 	}
+	!MODULE[ModuleCoreHeat] {}
 	
 	RESOURCE
 	{
