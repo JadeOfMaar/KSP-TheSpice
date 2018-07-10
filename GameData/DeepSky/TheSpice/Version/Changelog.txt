@@ -1,3 +1,17 @@
+0.8.3 -  - 2018-07-09
+- - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
+
+* Added lift surface to Argo WarpJet engine
+* Integrate FTL Drive Continued (owned by LinuxGuruGamer)
+* Fix/update WBI part tips
+* Nerf OPT Spice tank capacities
+* Classic Stock: 
+  * Detect DSEV Fusion reactor module for Spice Fusion Core
+  * Remove Core Heat from Spice Fusion Core
+* Add KEI exclusions for Spice science
+* Add (unstable) integration of WBI A51 gravitic engine to Spice Warp Drive
+
+
 0.8.2 -  - 2018-05-10
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 
