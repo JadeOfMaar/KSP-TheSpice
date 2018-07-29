@@ -119,7 +119,7 @@ B9_TANK_TYPE:NEEDS[B9PartSwitch]
 		SUBTYPE
 		{
 			name = AtmoStandard
-			tankType = DS_Atm
+			tankType = DS_ATM
 			title = Atmosphere
 		}
 		SUBTYPE
