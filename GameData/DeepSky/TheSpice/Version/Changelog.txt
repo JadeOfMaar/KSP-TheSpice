@@ -1,4 +1,4 @@
-0.8.3 -  - 2018-07-09
+0.8.3 -  - 2018-08-01
 - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - -  - - - - 
 
 * Added lift surface to Argo WarpJet engine
@@ -10,8 +10,9 @@
   * Detect DSEV Fusion reactor module for Spice Fusion Core
   * Remove Core Heat from Spice Fusion Core
 * Add KEI exclusions for Spice science
-* Add integration of WBI A51 gravitic engine to warp drives
+* Add integration of WBI A51 gravitic engine to discreet engine core part
 * Buffed antenna module and remove SAS from warp drives
+* Changed atmosphere tank type and subtype, may affect craft in-flight
 
 
 0.8.2 -  - 2018-05-10
